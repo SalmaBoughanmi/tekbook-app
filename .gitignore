@@ -3,5 +3,10 @@ target/
 .idea/
 .vscode/
 .DS_Store
-Dockerfile
 .dockerignore
+
+# Lab 4 — fichiers locaux / résultats de scan
+.env
+compose-final.txt
+scan.txt
+Dockerfile.cached
